@@ -1,7 +1,6 @@
 - 👋 Hi, I’m sina
 - 👀 I’m interested in Python Coding 
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sina.houshmand.pakdel@gmail.com
 
 <!---
